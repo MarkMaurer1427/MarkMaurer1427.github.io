@@ -1,0 +1,16 @@
+body
+{
+    background-color: black;
+    color: whitesmoke;
+}
+
+#shifted
+{
+    padding: 10px;
+    float: right;
+}
+
+#deshifted
+{
+    clear: both;
+}
